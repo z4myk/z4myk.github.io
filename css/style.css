@@ -6,3 +6,9 @@
     width: 200px;
     border-radius: 50%;
 }
+
+.puesto-trabajo {
+    border: 2px solid rgb(0, 166, 255);
+    border-radius: 20px;
+}
+
