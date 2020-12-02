@@ -15,6 +15,10 @@
 .card-educacion {
     width: 300px;
     border: 1px solid rgb(0, 166, 255);
-    
-    
+
+}
+
+.card-portfolio {
+    width: 500px;
+    border: 1px solid rgb(0, 166, 255);
 }
